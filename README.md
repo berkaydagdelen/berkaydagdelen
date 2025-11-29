@@ -20,8 +20,6 @@ Ben yazılım geliştirici ve microservice projeleriyle ilgileniyorum.
 
 ## 🏗️ Frameworkler ve Kütüphaneler
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 ## 🗄️ Veritabanları
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)

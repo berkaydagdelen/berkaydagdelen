@@ -1,7 +1,7 @@
 # Merhaba! 👋
 
 
-## 🛠️ Kullandığım Teknolojiler
+## ✨ Kullandığım Teknolojiler
 
 ### Programlama Dilleri
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=c-sharp&logoColor=white)

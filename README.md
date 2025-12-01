@@ -80,6 +80,3 @@ Daha fazla proje için [GitHub Repolarıma](https://github.com/berkaydagdelen?ta
 - **Türkçe:** Ana Dil
 - **İngilizce:** A2 
 
-
-
-*(Bu README.md dosyasını direkt kopyala ve GitHub profil repo'na yapıştır. Dinamik istatistikleri eklemek için [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) kullan. Eğer değişiklik istersen – örneğin daha fazla proje linki veya tema – söyle!)*

@@ -1,9 +1,5 @@
 # Merhaba! 👋
 
-Ben **Berkay Dağdelen**, İzmir/Türkiye merkezli bir **Full-Stack Yazılım Geliştiricisi**yim. Yazılım geliştirmeye olan derin ilgimle bu alana adım attım ve sürekli öğrenmeye açığım. Yeni teknolojileri keşfetmek, ekip çalışması ve dinamik ortamlara hızlı adapte olmak beni motive ediyor. Turizm, varlık yönetimi ve personel takip sistemleri gibi alanlarda deneyim kazandım. Hedefim, kaliteli ve kullanıcı odaklı çözümler üretmek! 🚀
-
-![Berkay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=berkaydagdelen&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaydagdelen&layout=compact&theme=radical&hide_border=true)
 
 ## 🛠️ Teknik Becerilerim
 Yazılım yolculuğumda edindiğim ana teknolojiler:
@@ -78,28 +74,12 @@ Daha fazla proje için [GitHub Repolarıma](https://github.com/berkaydagdelen?ta
   Ön Lisans: Dış Ticaret (Foreign Trade)
 
 ## 🏆 Sertifikalar
-- Web Development with ASP.NET Core 5.0 Step by Step (Udemy, 2023)
-- Basic Python (Udemy, 2023)
-- Step by Step SQL Database Programming (Udemy, 2020)
-- Develop SQL-Based Web Projects with ASP.NET Bootstrap (Udemy, 2020)
 - Erasmus+ Program (Fundacja Edukacja dla Przyszłości, Almanya/Polonya, 2016)
 
 ## 🌍 Diller
 - **Türkçe:** Ana Dil
-- **İngilizce:** A2 (Kendini geliştirme çalışmaları devam ediyor – online platformlar ve pratikle!)
+- **İngilizce:** A2 
 
-## 📫 İletişime Geç
-Birlikte çalışmak veya sohbet etmek istersen:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkaydagdelen/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:berkay.dagdelen@outlook.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/berkaydagdelen)
-[![Phone](https://img.shields.io/badge/-Phone-24C6DC?style=flat&logo=phone&logoColor=white)](tel:+905433799355)
-
-Referanslar: Talep üzerine sağlanır.
-
----
-
-⭐ Bu profile yıldız ver ve takip et! Yeni projeler ve güncellemeler için buradayım. Teşekkürler! 😊
 
 *(Bu README.md dosyasını direkt kopyala ve GitHub profil repo'na yapıştır. Dinamik istatistikleri eklemek için [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) kullan. Eğer değişiklik istersen – örneğin daha fazla proje linki veya tema – söyle!)*

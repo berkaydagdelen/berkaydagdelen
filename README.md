@@ -1,4 +1,10 @@
-# Merhaba! 👋
+👋 Merhaba! Ben Berkay.  
+
+💡 İnsanların hayatına değer katacak dokunuşlar yapmayı ve teknolojiyi keşfetmeyi çok sevdiğim için yazılım sektörüne yöneldim.  
+
+🚀 Yeni teknolojileri merakla takip eder ve yenilikleri ilk deneyenlerden olmayı severim.  
+
+😄 Güvenli, temiz ve yüksek performanslı kod yazma konusunda çok takılırım.
 
 
 ## ✨ Kullandığım Teknolojiler
